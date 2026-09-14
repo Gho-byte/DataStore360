@@ -1,0 +1,4 @@
+services:
+  python:
+    name: python
+    port: "7000:7000"
